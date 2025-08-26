@@ -5,3 +5,4 @@ scikit-learn==1.6.1
 joblib==1.4.2
 matplotlib==3.10.0
 openpyxl==3.1.5  # 若模型涉及Excel处理，需添加
+seaborn==0.13.2  # 版本号可以根据你本地实际版本调整
